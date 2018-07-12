@@ -3,8 +3,13 @@ Made with :heart: by b0nz
 
 
 ## Features
-* Search Engine
-* Responsive Gallery
+* Filter Search
+* Fetch data from API
+
+## Technology
+* React Navigation
+* Redux as State management
+* Axios as Request handler
 
 ## Installations
 ```
