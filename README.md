@@ -4,7 +4,7 @@ Made with :heart: by b0nz
 
 ## Features
 * Search Engine
-* Responsive Galery
+* Responsive Gallery
 
 ## Installations
 ```

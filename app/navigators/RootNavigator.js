@@ -7,7 +7,7 @@ const RootNavigator = StackNavigator({
   ImagesList: {
     screen: ImagesList,
     navigationOptions: {
-      title: 'Galery',
+      title: 'Gallery',
       headerStyle:{ backgroundColor: '#4A6572' },
       headerTintColor: '#fff'
     }
